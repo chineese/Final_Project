@@ -3,6 +3,10 @@
 ## PROJECT PROPOSAL
 
 <br> 
+#### Presentation link :
+> https://www.youtube.com/watch?v=8i-jj_UaNd0
+
+#### Mockup - In report
 
 #### 1.0 Introduction
 
