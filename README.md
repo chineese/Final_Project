@@ -100,7 +100,7 @@
 
 <br>
 
-![Entity Relationship Diagram](/resources/SD.jpg)
+![Entity Relationship Diagram](/resources/SD.png)
 
 <br>
 
